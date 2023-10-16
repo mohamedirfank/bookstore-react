@@ -11,7 +11,7 @@ app.use(Express.json());
 
 //middlewear for handling cors policy
 // option 1: allow all origins with defult cors
-//app.use(cors());
+app.use(cors());
 
 //ooption 2: allow custom origins
 // app.use(

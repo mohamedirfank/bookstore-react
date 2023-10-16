@@ -6,7 +6,7 @@ import EditBooks from './Pages/EditBooks';
 import DeleteBooks from './Pages/DeleteBooks';
 import ShowBooks from './Pages/ShowBooks';
 
-function App() {
+const App = () => {
   return (
     <Routes>
       <Route path='/' element= {<Home/>}></Route>

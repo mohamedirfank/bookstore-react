@@ -1,6 +1,6 @@
 import React from 'react'
 
-function CreateBooks() {
+const CreateBooks = () => {
   return (
     <div>CreateBooks</div>
   )

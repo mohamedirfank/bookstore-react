@@ -1,6 +1,6 @@
 import React from 'react'
 
-function DeleteBooks() {
+const DeleteBooks = () => {
   return (
     <div>DeleteBooks</div>
   )
